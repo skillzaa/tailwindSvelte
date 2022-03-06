@@ -3,8 +3,8 @@
 </script>
 
 <main class="text-center p-4 max-w-xs mx-auto sm:max-w-none">
-  <h1 class="text-red-600 text-6xl uppercase leading-loose font-thin">Hello {name}!</h1>
-  <p class="text-gray-800">
+  <h1 class="text-yellow-400 text-6xl uppercase leading-loose font-thin bg-green-800">Hello {name}!</h1>
+  <p class="text-blue-800">
     Visit the <a class="text-blue-500 hover:underline" href="https://svelte.dev/tutorial">
     Svelte tutorial</a> to learn how to build Svelte apps.
   </p>
